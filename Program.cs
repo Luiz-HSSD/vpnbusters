@@ -14,7 +14,7 @@ namespace vpnbusters
         static void Main(string[] args)
         {
              new VpnBusters().Fix();
-            MessageBox.Show("arrumado");
+            MessageBox.Show("arrumado", "Vpn Busters");
 
         }
     }
